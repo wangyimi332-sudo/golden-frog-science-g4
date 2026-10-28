@@ -43,6 +43,6 @@ GitHub 仓库：https://github.com/wangyimi332-sudo/golden-frog-science-g4
 
 现有 G4 网页在本地可运行；原 Sites 入口需所有者登录，GitHub Pages 尚未发布。仓库目前用于展示课程介绍，尚不能作为公开课程网页。
 
-本地网页和验证记录见 `site/` 与 `planning/`。
+本仓库当前提供课程说明，尚未包含可公开访问的网页发布文件。
 
 
